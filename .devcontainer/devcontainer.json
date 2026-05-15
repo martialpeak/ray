@@ -1,5 +1,5 @@
 {
-  "name": "storm-relay-533f67",
+  "name": "fast-mesh-3210ad",
   "build": {
     "dockerfile": "Dockerfile",
     "context": "."
@@ -15,7 +15,7 @@
   "postStartCommand": "gh codespace ports visibility 443:public -c $CODESPACE_NAME && bash /usr/local/bin/start.sh",
   "portsAttributes": {
     "443": {
-      "label": "storm-relay-533f67",
+      "label": "fast-mesh-3210ad",
       "protocol": "http",
       "onAutoForward": "silent",
       "visibility": "public"

@@ -21,16 +21,16 @@
   "inbounds": [
     {
       "tag": "vless-in",
-      "port": 8080,
+      "port": 443,
       "listen": "0.0.0.0",
       "protocol": "vless",
       "settings": {
         "clients": [
           {
-            "id": "63f5b223-07b1-42ac-9df8-26560f1c99f6",
+            "id": "388200a5-2260-4c31-968b-0e7bd66666bb",
             "flow": "",
             "level": 0,
-            "email": "user@swift-tunnel-901735"
+            "email": "user@fast-mesh-3210ad"
           }
         ],
         "decryption": "none",
